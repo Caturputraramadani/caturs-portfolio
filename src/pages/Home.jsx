@@ -6,7 +6,6 @@ import '@fontsource/caveat';
 import Photo from '../assets/photo.png';
 import CustomCursorApp from '../components/Cursor.jsx';
 import MarqueeText from '../components/MarqueeText.jsx';
-import Wave from '../assets/Wave.png';
 import Arrow from '../assets/arrow.svg';
 import Arrow2 from '../assets/arrow2.svg';
 import Arrowwave from '../assets/arrowwave.svg';
@@ -74,9 +73,6 @@ const Home = () => {
 
 			{/* Gelombang SVG */}
 			<div id="section-2">
-				<div className="relative w-full mt-32">
-					<img src={Wave} alt="Wave" className="w-full" />
-				</div>
 
 				<div className="relative bg-black text-white ref={section2Ref}">
 					{/* Section 2 */}
