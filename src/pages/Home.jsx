@@ -6,7 +6,7 @@ import '@fontsource/caveat';
 import Photo from '../assets/photo.png';
 import CustomCursorApp from '../components/Cursor.jsx';
 import MarqueeText from '../components/MarqueeText.jsx';
-import Wave from '../assets/Wave.svg';
+import Wave from '../assets/Wave.png';
 import Arrow from '../assets/arrow.svg';
 import Arrow2 from '../assets/arrow2.svg';
 import Arrowwave from '../assets/arrowwave.svg';
